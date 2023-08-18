@@ -6,8 +6,10 @@
 - React
 - React Query (TanStack Query)
 - Redux Toolkit
+- React Hook Form
 - Axios
 - React-Select
+- React Router
 
 ## Index and Profile:
 ![Index and Profile screenshots](public/images/index-and-profile.jpg)
